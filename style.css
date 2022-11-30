@@ -68,7 +68,9 @@ header {
 .project img {
     margin-top:20px;
     margin-bottom: 20px;
+    border-radius: 10%;
 }
+
 .dropbtn {
     
     /* color: white; */
