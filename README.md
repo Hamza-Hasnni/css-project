@@ -1,3 +1,3 @@
 # css-project
 
-link : https://full-stack-js-dev.github.io/css-project/
+link : https://hamza-hasnni.github.io/css-project/
